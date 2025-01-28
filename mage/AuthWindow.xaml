@@ -1,0 +1,26 @@
+﻿<Window x:Class="mage.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mage"
+        mc:Ignorable="d"
+        Title="AuthWindow" Height="600" Width="450">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"></RowDefinition>
+            <RowDefinition Height="100*"></RowDefinition>
+            <RowDefinition Height="100*"></RowDefinition>
+            <RowDefinition Height="100*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150*"></ColumnDefinition>
+            <ColumnDefinition Width="150*"></ColumnDefinition>
+            <ColumnDefinition Width="150*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image Source="Resources\Pic.jpg" Grid.Column="1"></Image>
+        <TextBox Grid.Column="1" Grid.Row="1" Text="Login" Height="50" Width="130"></TextBox>
+        <TextBox Grid.Column="1" Grid.Row="2" Text="Password" Height="50" Width="130"></TextBox>
+        <Button Grid.Column="1" Grid.Row="3" Content="Вход" Height="50" Width="130"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+C:\Users\Student 1\source\repos\mage\krasn\krasn\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Student 1\source\repos\mage\krasn\krasn\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Student 1\source\repos\mage\krasn\krasn\obj\Debug\net8.0-windows\krasn_MarkupCompile.cache
+C:\Users\Student 1\source\repos\mage\krasn\krasn\obj\Debug\net8.0-windows\krasn_MarkupCompile.lref

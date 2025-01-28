@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student 1\\source\\repos\\mage\\krasn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6142E663-2944-420B-92BC-E2E69E2240D4}|krasn\\krasn.csproj|c:\\users\\student 1\\source\\repos\\mage\\krasn\\krasn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6142E663-2944-420B-92BC-E2E69E2240D4}|krasn\\krasn.csproj|solutionrelative:krasn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6142E663-2944-420B-92BC-E2E69E2240D4}|krasn\\krasn.csproj|c:\\users\\student 1\\source\\repos\\mage\\krasn\\krasn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6142E663-2944-420B-92BC-E2E69E2240D4}|krasn\\krasn.csproj|solutionrelative:krasn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6142E663-2944-420B-92BC-E2E69E2240D4}|krasn\\krasn.csproj|c:\\users\\student 1\\source\\repos\\mage\\krasn\\krasn\\krasn.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6142E663-2944-420B-92BC-E2E69E2240D4}|krasn\\krasn.csproj|solutionrelative:krasn\\krasn.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "krasn",
+              "DocumentMoniker": "C:\\Users\\Student 1\\source\\repos\\mage\\krasn\\krasn\\krasn.csproj",
+              "RelativeDocumentMoniker": "krasn\\krasn.csproj",
+              "ToolTip": "C:\\Users\\Student 1\\source\\repos\\mage\\krasn\\krasn\\krasn.csproj",
+              "RelativeToolTip": "krasn\\krasn.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T11:27:45.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student 1\\source\\repos\\mage\\krasn\\krasn\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "krasn\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student 1\\source\\repos\\mage\\krasn\\krasn\\MainWindow.xaml",
+              "RelativeToolTip": "krasn\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T11:26:55.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student 1\\source\\repos\\mage\\krasn\\krasn\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "krasn\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student 1\\source\\repos\\mage\\krasn\\krasn\\MainWindow.xaml.cs",
+              "RelativeToolTip": "krasn\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:26:55.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

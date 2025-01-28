@@ -1,0 +1,17 @@
+C:\Users\Student 1\source\repos\mage\mage\bin\Debug\mage.exe.config
+C:\Users\Student 1\source\repos\mage\mage\bin\Debug\mage.exe
+C:\Users\Student 1\source\repos\mage\mage\bin\Debug\mage.pdb
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage.csproj.AssemblyReference.cache
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\MainWindow.g.cs
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\App.g.cs
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage_MarkupCompile.cache
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage_MarkupCompile.lref
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\MainWindow.baml
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage.g.resources
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage.Properties.Resources.resources
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage.csproj.GenerateResource.cache
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage.exe
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\mage.pdb
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\AuthWindow.g.cs
+C:\Users\Student 1\source\repos\mage\mage\obj\Debug\AuthWindow.baml

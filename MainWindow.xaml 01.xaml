@@ -1,0 +1,25 @@
+﻿<Window x:Class="Practik.Kalach_Bogdan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practik.Kalach_Bogdan"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="___Без_имени_" Content="Переход" HorizontalAlignment="Left" Margin="27,34,0,0" VerticalAlignment="Top" Background="#FF41B348" FontSize="24" FontFamily="SimSun-ExtB" Width="156" Click="___Без_имени__Click"/>
+        <Button Content="Закрытие" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top" Height="61" Width="130" IsCancel="True" Background="#FF4938C3" FontFamily="SimSun-ExtB" FontSize="20" Grid.Column="1" Click="Button_Click"/>
+    </Grid>
+
+</Window>
